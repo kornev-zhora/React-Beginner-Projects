@@ -1,65 +1,47 @@
-React Beginner Projects
+This repository follows the React Beginner Projects course.
 
-This repository is dedicated to my journey through the React Beginner Projects course by O'Reilly. The goal is to master React fundamentals by building hands-on, real-world applications.
+🔗 Quick Links
 
-📚 Course Overview
+Original Course: O'Reilly Video Training
 
-This course focuses on practical learning, moving from basic components to complex state management and API integrations. It covers essential React hooks, props, and functional programming patterns.
+Instructor: Packt Publishing
+
+Topic: Practical React.js for Beginners
+
+📝 Course Description
+
+"The best way to learn React is by building. This course focuses on practical implementation of hooks, state management, and API integration through real-world projects."
 
 🚀 Projects Included
 
-[ ] Simple Counter: Understanding state and event handling.
+[x] Counter Application
 
-[ ] To-Do List: Managing arrays in state and CRUD operations.
+[ ] Modal Component
 
-[ ] Weather App: Fetching data from external APIs and handling asynchronous logic.
+[ ] Interactive Quiz
 
-[ ] Quiz Application: Complex state transitions and logic.
+[ ] User Search & Filter
 
-[ ] Portfolio Site: Component architecture and styling in React.
+[ ] Currency Converter
 
-🛠 Tech Stack
+[ ] Photo Gallery
 
-Library: React.js
+🛠️ How to use this repo
 
-Build Tool: Vite / Create React App
+# Clone the repository
 
-Styling: CSS3 / Modern Styling modules
-
-State Management: React Hooks (useState, useEffect, useContext)
-
-📖 Key Concepts Learned
-
-JSX syntax and Component-based architecture.
-
-Passing data via Props.
-
-Managing component lifecycle with Hooks.
-
-Handling user input and forms.
-
-Conditional rendering and list mapping.
-
-🏁 How to Run
-
-Clone the repository:
-
-git clone [https://github.com/your-username/react-beginner-projects.git](https://github.com/your-username/react-beginner-projects.git)
+git clone <your-repo-link>
 
 
-Navigate to a specific project folder:
 
-cd project-name
-
-
-Install dependencies:
+# Install dependencies
 
 npm install
 
 
-Start the development server:
 
-npm start
+# Start the development server
 
+npm run dev
 
-Follow my progress as I build and learn!
+Note: This is a personal study repository based on the O'Reilly curriculum. 
