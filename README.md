@@ -1,47 +1,90 @@
-This repository follows the React Beginner Projects course.
+# React Beginner Projects
 
-🔗 Quick Links
+This repository contains a collection of small projects built while following the **React Beginner Projects** course.
+The focus is on **learning by building** and understanding React fundamentals through hands-on examples.
 
-Original Course: O'Reilly Video Training
+---
 
-Instructor: Packt Publishing
+## 🎯 Purpose
 
-Topic: Practical React.js for Beginners
+* Practice core React concepts
+* Build confidence with real, working projects
+* Learn state, hooks, and component composition
+* Avoid tutorial-only knowledge
 
-📝 Course Description
+This is a **learning repository**, not a production app.
 
-"The best way to learn React is by building. This course focuses on practical implementation of hooks, state management, and API integration through real-world projects."
+---
 
-🚀 Projects Included
+## 🔗 Quick Links
 
-[x] Counter Application
+* 📘 **Course**:
+  [React Beginner Projects – O’Reilly](https://www.oreilly.com/videos/react-beginner-projects/9781807305451/)
 
-[ ] Modal Component
+* 🎓 **Publisher / Instructor**:
+  [Packt Publishing](https://www.packtpub.com/)
 
-[ ] Interactive Quiz
+* ⚛️ **React Documentation**:
+  [https://react.dev/learn](https://react.dev/learn)
 
-[ ] User Search & Filter
+* 🧠 **JavaScript Reference (MDN)**:
+  [https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-[ ] Currency Converter
+---
 
-[ ] Photo Gallery
+## 📝 Course Description
 
-🛠️ How to use this repo
+> *“The best way to learn React is by building.”*
 
+This course focuses on:
+
+* Functional components
+* React Hooks (`useState`, `useEffect`)
+* Basic state management
+* Event handling
+* Simple API interactions
+* Component-driven thinking
+
+---
+
+## 🚀 Projects Included
+
+* ✅ Counter Application
+* ⬜ Modal Component
+* ⬜ Interactive Quiz
+* ⬜ User Search & Filter
+* ⬜ Currency Converter
+* ⬜ Photo Gallery
+
+> Projects are added progressively as the course advances.
+
+---
+
+## 🛠️ How to Use This Repository
+
+```bash
 # Clone the repository
-
 git clone <your-repo-link>
 
-
-
 # Install dependencies
-
 npm install
 
-
-
 # Start the development server
-
 npm run dev
+```
 
-Note: This is a personal study repository based on the O'Reilly curriculum. 
+---
+
+## ⚠️ Notes
+
+* This repository is for **personal study and experimentation**
+* Code may evolve as concepts improve
+* Refactors are intentional and part of the learning process
+
+---
+
+## 📄 License
+
+Educational use only.
+Course content belongs to **Packt Publishing / O’Reilly**.
+
